@@ -655,7 +655,7 @@ MonoBehaviour:
   _questionAmount: 3
   _quiz:
     results: []
-  _uiManager: {fileID: 0}
+  _uiManager: {fileID: 1080502071}
 --- !u!4 &740230522
 Transform:
   m_ObjectHideFlags: 0

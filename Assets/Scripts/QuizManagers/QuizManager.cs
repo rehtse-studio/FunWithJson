@@ -32,7 +32,7 @@ namespace QuizGameAPI
         private int _numbersOfClick = 0;
 
         [Header("Numbers Of Questions")]
-        [SerializeField] private int _questionsAmount;
+        [SerializeField] private int _questionAmount;
 
         [Header("Visual Help To See The Class Being Populated With The GetRequest")]
         [SerializeField] private QuizAPIRoot _quiz;
