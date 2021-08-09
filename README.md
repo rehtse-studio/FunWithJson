@@ -5,7 +5,7 @@ Both mini games content are provided using API sites, UnityWebRequest and gettin
 # Unity Version 2020.3.13f1 w/ standard pipeline
 
 # API
-**Dads JOkes API**
+**Dads Jokes API**
 ```
 https://icanhazdadjoke.com/api
 ```
